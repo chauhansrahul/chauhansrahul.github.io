@@ -4,7 +4,7 @@ email: rach.chauhan99@gmail.com
 url: https://rahulchauhan.github.io
 description: "Personal Website"
 keywords: "your keywords, separated by commas"
-skills: "Data Scientist - Social Network Analyst - Web & App Developer"
+skills: "Quant Consultant - Sustainable Management Researcher"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -27,8 +27,8 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
+  primary: 8d8f92 #80B3FF
+  primary-rgb: "141,143,146" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
@@ -40,8 +40,8 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  #- title: linkedin
-  #  url: http://linkedin.com/in/tejalw
+  - title: linkedin
+    url: https://linkedin.com/in/rahulchauhan99
   - title: github
     url: http://github.com/chauhansrahul
 
