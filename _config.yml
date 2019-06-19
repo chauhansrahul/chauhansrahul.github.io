@@ -1,7 +1,7 @@
 # Site settings
-title: Tejal Wakchoure
-email: tejal.wakchoure@gmail.com
-url: https://tejalwakchoure.github.io
+title: Rahul Chauhan
+email: rach.chauhan99@gmail.com
+url: https://rahulchauhan.github.io
 description: "Personal Website"
 keywords: "your keywords, separated by commas"
 skills: "Data Scientist - Social Network Analyst - Web & App Developer"
@@ -40,10 +40,10 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: linkedin
-    url: http://linkedin.com/in/tejalw
+  #- title: linkedin
+  #  url: http://linkedin.com/in/tejalw
   - title: github
-    url: http://github.com/tejalwakchoure
+    url: http://github.com/chauhansrahul
 
 # Postal address (add as many lines as necessary)
 address:
