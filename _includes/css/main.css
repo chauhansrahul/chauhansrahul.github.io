@@ -246,7 +246,7 @@ section.success {
     display: block;
     position: relative;
     margin: 0 auto;
-    /*max-width: 400px;*/
+    max-width: 400px;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption {
@@ -446,7 +446,7 @@ footer .footer-below {
 
 .portfolio-modal .modal-content img {
     margin-bottom: 30px;
-    border-radius: 50%;
+    /*border-radius: 50%;*/
 }
 
 .portfolio-modal .modal-content .item-details {
