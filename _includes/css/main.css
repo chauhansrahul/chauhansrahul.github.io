@@ -430,10 +430,9 @@ footer .footer-below {
 
 .portfolio-modal .modal-content {
     padding: 100px 0;
-    height: 80%;
-    width: 80%;
+    min-height: 100%;
     border: 0;
-    /*border-radius: 50%;*/
+    border-radius: 50%;
     text-align: center;
     background-clip: padding-box;
     -webkit-box-shadow: none;
@@ -447,7 +446,7 @@ footer .footer-below {
 
 .portfolio-modal .modal-content img {
     margin-bottom: 30px;
-    /*border-radius: 50%;*/
+    border-radius: 50%;
 }
 
 .portfolio-modal .modal-content .item-details {
