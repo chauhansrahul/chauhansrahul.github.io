@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: modal3.png
+alt: image-alt
+title: IRCLogParser
+project-date: January 2018
+category: Data Mining
+github-link: https://github.com/tejalwakchoure/IRCLogParser
+description: IRCLogParser is a data analyzer that uses Clustering Analysis and Inferential Modeling in order to study user interactions on different levels on the Internet Relay Chat (IRC) networking service and derive local and global communication patterns between users on different channels. It assesses the evolution of a log channel, user statistics, and social structure by modeling Aggregate and Temporal graphs and Heat maps.
+
+---

@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 title: Predictive Analytics
 date: 2014-07-18
-img: stethoscope.png
+img: modal1.png
 alt: image-alt
 project-date: May 2018
 category: Predictive Analytics  in Healthcare

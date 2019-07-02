@@ -1,5 +1,5 @@
 
-    <!-- Portfolio Grid Section -->
+    <!-- Research Grid Section -->
     <section id="research">
         <div class="container">
             <div class="row">
@@ -9,7 +9,7 @@
                 </div>
             </div>
             <div class="row">
-                {% for post in site.posts %}
+                {% for post in site.posts.research %}
                     <div class="col-sm-4 portfolio-item">
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
@@ -17,7 +17,7 @@
                                     <i class="fa fa-search-plus fa-3x" style="color: #fff;"></i>
                                 </div>
                             </div>
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}" style="display: block;margin-left: auto; margin-right: auto;width: 200px; height:200px;">
+                            <img src="img/research/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}" style="display: block;margin-left: auto; margin-right: auto;width: 200px; height:200px;">
                         </a>
                     </div>
                 {% endfor %}

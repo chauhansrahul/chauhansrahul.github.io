@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+title: Predictive Analytics
+date: 2014-07-18
+img: modal1.png
+alt: image-alt
+project-date: May 2018
+category: Predictive Analytics  in Healthcare
+description: Health-based classification of an experimental batch of mice into 8 different classes by a model that uses Convolutional Neural Networks and exploratory data analysis techniques like Principal Component Analysis (PCA) and t-Distributed Stochastic Neighbor Embedding (t-SNE). An available dataset containing the expression levels of 77 proteins measured in the cerebral cortex was used and an accuracy of 97% was obtained on the predictions.
+
+---
