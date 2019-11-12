@@ -7,8 +7,7 @@ alt: image-alt
 project-date: August 2018 - August 2019
 client: WorldQuant LLC
 category: Quant Finance
-description: Consistently developrd algorithmic trading strategies for equity trading using statistical modelling
-based on Price Volume, Fundamental Data, and Sentiment Data for stock markets in the USA, Europe, and Asia. Built around 670 such alphas in total with 250 presently in use in international portfolios.
+description: Consistently developrd algorithmic trading strategies for equity trading using statistical modelling based on Price Volume, Fundamental Data, and Sentiment Data for stock markets in the USA, Europe, and Asia. Built around 670 such alphas in total with 250 presently in use in international portfolios.
 
 ---
 
