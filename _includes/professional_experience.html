@@ -13,12 +13,13 @@
             {% if post.path contains 'experience' %}
             <div class="col-sm-4 portfolio-item">
                 <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
-                    <div class="caption">
+                    <!-- <div class="caption">
                         <div class="caption-content">
                             <i class="fa fa-search-plus fa-3x"></i>
                         </div>
-                    </div>
-                    <img src="img/experience/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                    </div> -->
+                    <img src="img/experience/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}"
+                    style="display: block; margin-left: auto; margin-right: auto; object-fit: cover; height: 300px; width: 300px;">
                 </a>
             </div>
             {% endif %}
