@@ -1,7 +1,7 @@
 ---
 
 layout: default
-modal-id: Quantative Finance
+modal-id: exp3
 date: 2014-07-14
 img: worldquant.png
 alt: image-alt
