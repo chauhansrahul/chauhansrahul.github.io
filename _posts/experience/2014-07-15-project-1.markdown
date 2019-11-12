@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: exp1
+modal-id: Alexa Bot
 date: 2014-07-15
 img: game.png
 alt: image-alt
