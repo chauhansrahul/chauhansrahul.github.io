@@ -5,8 +5,9 @@ date: 2014-07-15
 img: worldquant.png
 title: WorldQuant LLC
 alt: image-alt
-project-date: August 2019
+project-date: August 2018 - August 2019
 category: Quant Finance
-description: Consistently developed algorithmic trading strategies for trading using statistical modelling based on a company’s annual report and P&L statement for stock markets in the USA, Europe, and Asia. Built around 670 such alphas in total presently in use in portfolios consisting of the top 500 (by liquidity) US companies
+description: Consistently developrd algorithmic trading strategies for equity trading using statistical modelling
+based on Price Volume, Fundamental Data, and Sentiment Data for stock markets in the USA, Europe, and Asia. Built around 670 such alphas in total with 250 presently in use in international portfolios.
 
 ---
