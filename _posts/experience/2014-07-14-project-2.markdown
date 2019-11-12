@@ -1,12 +1,12 @@
 ---
 layout: default
-modal-id: Strategy and the Sustainable Enterprise 
+modal-id: exp2
 date: 2014-07-14
 img: safe.png
 alt: image-alt
 project-date: May 2019 - July 2019
 client: IIM Bangalore
 category: Corporate Sustainability and Strategy
-description: Created and revamped a MOOC on corporate sustainability for edX as a part of a 4-member team. The course is now taught in 40 different colleges across the world and is sponsored by Wipro Ltd. Authored and presented a case-study on rePurpose, a start-up that helps corporations go plastic neutral, that will be used in future courses at IIM.
+description: Revamped a MOOC on Corporate Strategy and Sustainability as a part of a 4-member team. The course is now being taught in 40 different colleges across the world and is sponsored by Wipro. Also showcased innovative tools and softwares with professional level visual content and design along with executive level delivery, to more than 30 pedagogy industry experts. Authored and presented a case-study on rePurpose, a plastic neutrality startup, that will be used in future courses at IIM
 
 ---
