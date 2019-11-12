@@ -1,4 +1,5 @@
 ---
+
 layout: default
 modal-id: Quantative Finance
 date: 2014-07-14
