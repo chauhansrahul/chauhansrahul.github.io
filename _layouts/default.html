@@ -1,25 +1,22 @@
 <!DOCTYPE html>
 <html>
-    {% include head.html %}   
+    {% include head.html %}
     <body id="page-top" class="index">
-        
-    <!--div class="preloader"></div-->
-        
     {% include nav.html %}
-        
-    <div class="hide1">
-    {% include header.html %}        
-        </div>
-    <div class="hide2">
+    {% include header.html %}
+    {% include portfolio_grid.html %}
     {% include about.html %}
-    {% include professional_experience.html %}
-    {% include research_projects.html %}
-    {% include contact.html %}        
+
+    {% if site.contact == "static" %}
+    {% include contact_static.html %}
+    {% elsif site.contact == "disqus" %}
+    {% include contact_disqus.html %}
+    {% else %}
+    {% include contact.html %}
+    {% endif %}
+
     {% include footer.html %}
-        </div>
-    <!--/div-->
-        
-    <!--{% include modals.html %}-->
+    {% include modals.html %}
     {% include js.html %}
     </body>
 </html>

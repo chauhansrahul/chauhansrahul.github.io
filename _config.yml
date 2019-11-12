@@ -1,10 +1,10 @@
 # Site settings
-title: Rahul Chauhan
-email: rach.chauhan99@gmail.com
-url: https://rahulchauhan.github.io
-description: "Personal Website"
+title: Freelancer
+email: your-email@domain.com
+url: https://example.github.io
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Quant Finance - Sustainable Management - Data Analysis"
+skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -17,9 +17,7 @@ bing_verify:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-#contact: static
-contact:
-  social: Around the Web
+contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
@@ -27,8 +25,8 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 8d8f92 #80B3FF
-  primary-rgb: "141,143,146" #"128,179,255"
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
@@ -36,14 +34,21 @@ color:
 footer:
   copyright: Dr. Henry Jekyll
   location: Location
+  social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: linkedin
-    url: https://linkedin.com/in/rahulchauhan99
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket
+    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/chauhansrahul
+    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
