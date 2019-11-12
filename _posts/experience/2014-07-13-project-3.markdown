@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 3
+modal-id: exp3
 date: 2014-07-15
 img: worldquant.png
 title: WorldQuant LLC
