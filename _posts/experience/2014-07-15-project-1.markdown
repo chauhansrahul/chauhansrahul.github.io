@@ -7,7 +7,6 @@ alt: image-alt
 project-date: July 2019 - Present
 client: Worley India 
 category: AI and Data Analysis
-description: Led a project to develop and use Amazon's Alexa Bot to access a database of more than
-300,000 documents via Elasticsearch in a few seconds using voice commands
+description: Led a project to develop and use Amazon's Alexa Bot to access a database of more than 300,000 documents via Elasticsearch in a few seconds using voice commands
 
 ---
