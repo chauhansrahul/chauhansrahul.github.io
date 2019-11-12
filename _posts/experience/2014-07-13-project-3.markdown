@@ -1,13 +1,14 @@
 ---
 layout: default
-modal-id: exp3
-date: 2014-07-15
+modal-id: Quantative Finance
+date: 2014-07-14
 img: worldquant.png
-title: WorldQuant LLC
 alt: image-alt
 project-date: August 2018 - August 2019
+client: WorldQuant LLC
 category: Quant Finance
 description: Consistently developrd algorithmic trading strategies for equity trading using statistical modelling
 based on Price Volume, Fundamental Data, and Sentiment Data for stock markets in the USA, Europe, and Asia. Built around 670 such alphas in total with 250 presently in use in international portfolios.
 
 ---
+
